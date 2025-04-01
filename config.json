@@ -1,8 +1,8 @@
 {
-  "ws_url": "ws://brain.obimadu.pro/ws",
-  "repo_url": "https://git.obimadu.pro/backend.im/fastapi-app",
-  "user_id": "user-14",
-  "chat_id": "chat-14",
+  "ws_url": "ws://16.16.24.223/ws",
+  "repo_url": "http://51.20.124.137/inioluwa/backendim-fastapi-project",
+  "user_id": "iniuser305",
+  "chat_id": "inichat305",
   "test_command": "pytest tests/",
   "project_type": "fastapi",
   "commits": [
